@@ -1,0 +1,12 @@
+.dettaglio{
+    .img-wrapper{
+        // width: 90%;
+        img{
+            width: 100%;
+            object-fit: cover;
+        }
+    }
+}
+#map {
+    height: 180px;
+}

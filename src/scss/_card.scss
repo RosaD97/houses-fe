@@ -1,0 +1,19 @@
+.card {
+    width: 30%;
+    img{
+        height: 200px;
+    }
+
+    @media screen and (max-width: 960px) {
+        width: 40%;
+    }
+
+    @media screen and (max-width: 500px) {
+        width: 100%;
+    }
+    .my_btn{
+        background-color: $bg;
+        color: #fff;
+    }
+
+}
